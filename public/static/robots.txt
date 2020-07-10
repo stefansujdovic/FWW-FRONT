@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: path to sitemap.For example majstorizasve.com/static/sitemap/sitemap.xml
